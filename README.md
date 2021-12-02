@@ -1,1 +1,1 @@
-# Projects
+# Bachelor Degree Final Project
